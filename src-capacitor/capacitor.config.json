@@ -1,0 +1,11 @@
+{
+  "appId": "org.capacitor.quasar.app",
+  "appName": "Asistencia App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "url": "http://192.168.50.10:9500"
+  }
+}
