@@ -10,7 +10,10 @@
     "@capacitor/camera": "^5.0.6",
     "@capacitor/cli": "^5.0.0",
     "@capacitor/core": "^5.0.0",
+    "@capacitor/splash-screen": "^5.0.6",
     "jsqr": "^1.4.0",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0",
     "vue-router-multiguard": "^1.0.3"
   }
 }
