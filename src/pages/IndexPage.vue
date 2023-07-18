@@ -1,5 +1,5 @@
 <template>
-  <div class="row wrap justify-center">
+  <div class="row justify-center">
     <button @click="scanQR">Scan QR Code</button>
   </div>
 </template>
